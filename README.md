@@ -5,5 +5,6 @@
 - [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt)
   - [fastjson](https://github.com/alibaba/fastjson)
   - [httpclient 4.5](http://hc.apache.org/httpcomponents-client-4.5.x/index.html)
-- others
-  - [JCEF](https://github.com/chromiumembedded/java-cef)
+
+## License
+  [Apache 2.0](http://apache.org/licenses/LICENSE-2.0.txt)
